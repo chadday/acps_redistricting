@@ -10,8 +10,8 @@ Each plan is identified by a color as laid out below.
 
 | Plan    | File |
 | -------- | ------- |
-| Blue | ESRI Shapefile |
-| Green | ESRI Shapefile  |
-| Orange    | ESRI Shapefile  |
-| Purple    | ESRI Shapefile  |
-| Yellow   | ESRI Shapefile  |
+| Blue | [ESRI Shapefile](/elementary_plans/Blue_Plan.zip) |
+| Green | [ESRI Shapefile](/elementary_plans/Green_Plan.zip)  |
+| Orange    | [ESRI Shapefile](/elementary_plans/Orange_Plan.zip)  |
+| Purple    | [ESRI Shapefile](/elementary_plans/Purple_Plan.zip)  |
+| Yellow   | [ESRI Shapefile](/elementary_plans/Yellow_Plan.zip)  |
