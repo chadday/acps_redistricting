@@ -8,10 +8,13 @@ Each plan is identified by a color as laid out below.
 
 ### Elementary School Plans
 
+You can see all of the plans on a single web page [here]() or view them individually below.
+
 | Plan    | File |
 | -------- | ------- |
-| Blue | [ESRI Shapefile](/elementary_plans/Blue_Plan.zip) |
-| Green | [ESRI Shapefile](/elementary_plans/Green_Plan.zip)  |
-| Orange    | [ESRI Shapefile](/elementary_plans/Orange_Plan.zip)  |
-| Purple    | [ESRI Shapefile](/elementary_plans/Purple_Plan.zip)  |
-| Yellow   | [ESRI Shapefile](/elementary_plans/Yellow_Plan.zip)  |
+| Blue | [ESRI Shapefile](/elementary_plans/Blue_Plan.zip) | [Web Map](https://chadday.github.io/acps_redistricting/maps/elementary/Blue_Plan.html) |
+| Green | [ESRI Shapefile](/elementary_plans/Green_Plan.zip)  | [Web Map](https://chadday.github.io/acps_redistricting/maps/elementary/Green_Plan.html) |
+| Orange    | [ESRI Shapefile](/elementary_plans/Orange_Plan.zip)  | [Web Map](https://chadday.github.io/acps_redistricting/maps/elementary/Orange_Plan.html) |
+| Purple    | [ESRI Shapefile](/elementary_plans/Purple_Plan.zip)  | [Web Map](https://chadday.github.io/acps_redistricting/maps/elementary/Purpe_Plan.html) |
+| Yellow   | [ESRI Shapefile](/elementary_plans/Yellow_Plan.zip)  | [Web Map](https://chadday.github.io/acps_redistricting/maps/elementary/Yellow_Plan.html) |
+
