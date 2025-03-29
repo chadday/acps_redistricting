@@ -10,8 +10,8 @@ Each plan is identified by a color as laid out below.
 
 You can see all of the plans on a single web page [here]() or view them individually below.
 
-| Plan    | File |
-| -------- | ------- |
+| Plan    | File | Web Map |
+| -------- | ------- | ------- |
 | Blue | [ESRI Shapefile](/elementary_plans/Blue_Plan.zip) | [Web Map](https://chadday.github.io/acps_redistricting/maps/elementary/Blue_Plan.html) |
 | Green | [ESRI Shapefile](/elementary_plans/Green_Plan.zip)  | [Web Map](https://chadday.github.io/acps_redistricting/maps/elementary/Green_Plan.html) |
 | Orange    | [ESRI Shapefile](/elementary_plans/Orange_Plan.zip)  | [Web Map](https://chadday.github.io/acps_redistricting/maps/elementary/Orange_Plan.html) |
