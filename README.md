@@ -8,7 +8,7 @@ Each plan is identified by a color as laid out below.
 
 ### Elementary School Plans
 
-You can see all of the plans on a single web page [here]() or view them individually below.
+You can see all of the plans on a single web page [here](https://chadday.github.io/acps_redistricting/) or view them individually below.
 
 | Plan    | File | Web Map |
 | -------- | ------- | ------- |
