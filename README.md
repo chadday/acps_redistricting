@@ -18,3 +18,4 @@ You can see all of the plans on a single web page [here](https://chadday.github.
 | Purple    | [ESRI Shapefile](/elementary_plans/Purple_Plan.zip)  | [Web Map](https://chadday.github.io/acps_redistricting/maps/elementary/Purple_Plan.html) |
 | Yellow   | [ESRI Shapefile](/elementary_plans/Yellow_Plan.zip)  | [Web Map](https://chadday.github.io/acps_redistricting/maps/elementary/Yellow_Plan.html) |
 
+Source: [Alexandria, Va., City Public Schools](https://www.acps.k12.va.us/school-board/acps-redistricting) FOIA request received March 28, 2025
